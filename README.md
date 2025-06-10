@@ -104,10 +104,4 @@ Analytics Dashboard
 ✔ Scalable Processing – Handles 1000+ resumes simultaneously
 ✔ Cost Efficiency – Reduced hiring costs and time-to-hire
 
-🤝 Contributing
-1️⃣ Fork the repository
-2️⃣ Create a feature branch: git checkout -b feature/AmazingFeature
-3️⃣ Commit changes: git commit -m 'Add AmazingFeature'
-4️⃣ Push to branch: git push origin feature/AmazingFeature
-5️⃣ Open Pull Request 🎉
 
