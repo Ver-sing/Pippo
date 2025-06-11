@@ -11,16 +11,19 @@ PIPPO is an advanced AI-powered system designed to automate resume parsing, cand
 - Enhanced NLP parser for extracting candidate details
 - Smart experience calculation from date ranges
 - Comprehensive skills database (100+ technical & soft skills)
+
 📊 Advanced Analytics Dashboard
 - Real-time candidate analytics for skills and experience
 - Interactive visualizations using Chart.js and Recharts
 - Market intelligence for skills gap analysis and demand alignment
 - Performance metrics and ATS optimization insights
+
 🎯 Smart Candidate Management
 - Anonymization toggle for bias-free screening
 - Advanced search & filtering with multiple criteria
 - Variable scoring system (15-95 point range)
 - Bulk operations for efficient candidate communication
+
 💬 Interactive Chatbot Interface
 - Conversational AI for candidate engagement
 - Resume upload assistant with guided validation
